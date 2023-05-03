@@ -16,11 +16,14 @@ public class CarLoan {
 	public void carName()
 	{
 		System.out.println("Innova");
+		
+		System.out.println("Crysta ");
 	}
 	@Test
 	public void Brand()
 	{
 		System.out.println("Lamber");
+		System.out.println("ferrari");
 	}
 
 }
