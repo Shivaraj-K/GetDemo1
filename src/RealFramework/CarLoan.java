@@ -8,6 +8,8 @@ public class CarLoan {
 	public void loginCar()
 	{
 		System.out.println("loggedCar");
+		System.out.println("Car");
+		System.out.println("Car color black");
 	}
 	
 	@Test
