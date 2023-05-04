@@ -25,5 +25,12 @@ public class CarLoan {
 		System.out.println("Lamber");
 		System.out.println("ferrari");
 	}
+	@Test
+	public void test()
+	{
+		System.out.println("Hello");
+		
+		System.out.println("Hi");
+	}
 
 }

@@ -19,4 +19,9 @@ public class PersonalLoan {
 	{
 		System.out.println("land loan");
 	}
+	@Test
+	public void cropLoan()
+	{
+		System.out.println("croploan");
+	}
 }
