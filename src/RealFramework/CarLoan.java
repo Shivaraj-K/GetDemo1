@@ -33,4 +33,10 @@ public class CarLoan {
 		System.out.println("Hi");
 	}
 
+	@Test
+	public void demo()
+	{
+		System.out.println("demo");
+		System.out.println("Rock");
+	}
 }

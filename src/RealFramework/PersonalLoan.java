@@ -24,4 +24,9 @@ public class PersonalLoan {
 	{
 		System.out.println("croploan");
 	}
+	@Test
+	public void homeLoan()
+	{
+		System.out.println("HomeLoan");
+	}
 }
